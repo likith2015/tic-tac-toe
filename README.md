@@ -1,1 +1,2 @@
 # tic-tac-toe
+This is a classic Tic Tac Toe game created using HTML, CSS, and JavaScript. Players take turns to mark 'X' or 'O' on a 3x3 grid, trying to be the first to align three of their marks horizontally, vertically, or diagonally. The game automatically checks for winning conditions after each turn and displays a message indicating the winner or a tie if all grid spaces are filled. The game also includes a "Restart" button to clear the grid and play again. The clean design and smooth animations make it enjoyable and engaging to play!
